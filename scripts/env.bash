@@ -1,2 +1,2 @@
-export AI_TOKEN="AIzaSyD-LEAjjAH7Mvh_8W8RRquZYkJlZ8zpGmU"
-export BOT_TOKEN="7967291240:AAGGUbWE150H8MgK9Uq99Cm_-yWHtkHt8lo"
+export AI_TOKEN=""
+export BOT_TOKEN=""
